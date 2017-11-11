@@ -1,4 +1,7 @@
 # Password generator V 0.1
+
+### Original code to work on CMD!  
+
 # User is asked for num of characters.  This program checks that input 
 # is valid (numbers > 0 and no letters) and generates a letter at a time.
 # The same character won't be in the final password.
