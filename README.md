@@ -10,7 +10,7 @@ Plans for different versions:
 *On version 0.1.  First release.  
 User can only select the number of characters for the password.  
 
-*On version 0.2 
+*On version 0.2   
 GUI improved.  
 Icon changed.  
 User is able to copy the new password.
