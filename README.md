@@ -6,7 +6,7 @@ Password Manager will improve until it becomes a Password Manager.  This is wher
 
 
 
-Plans for different versions:
+Plans for different versions:  
 *On version 0.1.  First release.  
 User can only select the number of characters for the password.  
 
