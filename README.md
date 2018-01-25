@@ -1,5 +1,8 @@
 # Password_Manager.  My first project as a python developer.
 
+I have a big number of accounts and passwords.  For security reasons all of them are different.  And this has led to a big problem of not remembering passwords.  That's where this idea came from.  
+  
+
 Password manager is a small project intended to provide solution to creating more secure passwords (with numbers, letters and symbols) and also to store them on an encrypted data base, so that the user has to remember only one password to access all stored passwords.
 
 With Password Manager the user can select the lenght of the password, as well as deciding if the password must have letters, symbols, or numbers.
@@ -19,13 +22,18 @@ Bugs to kill:
 -Error detection not working.  If user enters a letter instead of a number, program fails :(    
 
   
-
 *Planned for version 0.3:  
 -To implement the data base.  
 -To improve the GUI to allow access to stored passwords.  User will be able to create, modify, and delete passwords within the Password Manager program.  
 -Of course, to kill the 2 main bugs!  
   
-
+  
+***To execute this program, 3 files must be in the same folder:  
+-main.py (the one you must run to execute the Password_Manager)  
+-passgen.ico (the icon)   
+-and password_tips.txt (some tips to show the importance of secure passwords)   
+  
+    
 Since this is my first project, this will be a WIP.  Still learning a lot of things.  
 
 I know... I know this same program exists out there as freeware or payware (Keepass, 1pass, etc)... But I want to make something that solves one of my main problems in my computers.  And I'll do it as I improve my coding skills.  
