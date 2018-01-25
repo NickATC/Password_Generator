@@ -1,0 +1,13 @@
+Password Manager manual
+
+This is a simple yet very effective Password generator and Manager.
+
+
+To create a password:
+1.  Select the total number of character you want in your password.
+2.  Check the options as you need.  It's recommended to leave all options checked.
+3.  Click on GENERATE PASSWORD! button.
+4.  On the right side you will find your secure password.
+
+5.  In case you don't like your password, or simply you need another one, click on the GENERATE ANOTHER PASSWORD button.
+6.  
