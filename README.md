@@ -1,18 +1,15 @@
-# Password_Manager.  My first project as a python developer.
+# Password Generator.  My first project as a python developer.
 
-I have a big number of accounts and passwords.  For security reasons all of them are different.  And this has led to a big problem of not remembering passwords.  That's where this idea came from.  
+*Version 1.0.   April 2018*
+
+Here is a simple but very effective **Password Generator** built with a nice GUI for a better user experience.
   
 
-Password manager is a small project intended to provide solution to creating more secure passwords (with numbers, letters and symbols) and also to store them on an encrypted data base, so that the user has to remember only one password to access all stored passwords.
+**Plans for different versions:**
+~~On version 0.1.  First release.  
+User can only select the number of characters for the password.  ~~
 
-With Password Manager the user can select the lenght of the password, as well as deciding if the password must have letters, symbols, or numbers.
-
-
-Plans for different versions:  
-*On version 0.1.  First release.  
-User can only select the number of characters for the password.  
-
-*On version 0.2   --> Current verion that you can download from this GIT  
+~~On version 0.2   --
 -GUI improved.  
 -Password creation algoritm improved.  User has more options.  
 -Icon changed.  
@@ -21,24 +18,25 @@ Bugs to kill:
 -When creating a new password, the previous one is not deleted from the GUI.  
 -Error detection not working.  If user enters a letter instead of a number, program fails :(    
 
-  
-*Planned for version 0.3:  
--To implement the data base.  
--To improve the GUI to allow access to stored passwords.  User will be able to create, modify, and delete passwords within the Password Manager program.  
--Of course, to kill the 2 main bugs!  
-  
-  
-***To execute this program, 3 files must be in the same folder:  
--main.py (the one you must run to execute the Password_Manager)  
--passgen.ico (the icon)   
--and password_tips.txt (some tips to show the importance of secure passwords)   
+*Current version 1.0:  
+-GUI improved.  The more Tkinter I learn, the more I try to improve for better and simpler user experience
+-Menu added.
+-User guide added.
+-Tips to make more secure passwords was added.
+-Copy to clipboard button added.
+-Password creation algorith improved.
+-The 2 main bugs were killed!  :
+    -Error detection is working like a charm.  The program will only accept valid numbers.
+    -If user wants to create another password, the previous one will be deleted first.
+
+    
+##To execute this program:  
+1.  Download the repo.
+2.  Run *password_generator.py*
+3.  On the menu there is a user guide.  Just 4 steps to create more secure passwords
   
     
 Since this is my first project, this will be a WIP.  Still learning a lot of things.  
 
-I know... I know this same program exists out there as freeware or payware (Keepass, 1pass, etc)... But I want to make something that solves one of my main problems in my computers.  And I'll do it as I improve my coding skills.  
 
-If you want to help me improve this small program, email me (nicolastautiva      at     hotmail dot  com )
-
-
-test
+Comments and critics are welcome: email me (nicolastautiva      at     hotmail dot  com )
