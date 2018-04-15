@@ -1,23 +1,3 @@
-# Password Generator#  
-###My first project as a python developer.
-
-*Version 1.0.   April 2018*
-
-Here is a simple but very effective **Password Generator** built with a nice GUI for a better user experience.  By following 4 simple steps you can make (almost) unbreakable passwords.
-  
-
-**Plans for different versions:**
-~~On version 0.1.  First release.  
-User can only select the number of characters for the password.  ~~
-
-~~On version 0.2   --
--GUI improved.  
--Password creation algoritm improved.  User has more options.  
--Icon changed.  
--User is able to copy the new password.  
-Bugs to kill:  
--When creating a new password, the previous one is not deleted from the GUI.  
--Error detection not working.  If user enters a letter instead of a number, program fails :(    
 
 *Current version 1.0:  
 -GUI improved.  The more Tkinter I learn, the more I try to improve for better and simpler user experience
@@ -46,9 +26,10 @@ Comments and critics are welcome: email me (nicolastautiva      at     hotmail d
 
 
 
-# Project Title
+# Password Generator
+*Version 1.0.   April 2018*
 
-One Paragraph of project description goes here
+Here is a simple but very effective **Password Generator** built with a nice GUI for a better user experience.  By following 4 simple steps you can make (almost) unbreakable passwords.
 
 ## Getting Started
 
