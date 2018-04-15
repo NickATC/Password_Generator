@@ -1,18 +1,16 @@
- 
-    
-Since this is my first project, this will be a WIP.  Still learning a lot of things.  
-
-
-Comments and critics are welcome: email me (nicolastautiva      at     hotmail dot  com )
-
-
-
-
 
 # Password Generator
 *Version 1.0.   April 2018*
 
 Here is a simple but very effective **Password Generator** built with a nice GUI for a better user experience.  By following 4 simple steps you can make (almost) unbreakable passwords.
+
+You can create passwords from 8 characters up to 500.  Of course, with some editing to the main file, you can create up to 10000 or more characters.  
+
+I'm working on a PASSWORD MANAGER so you can save the passwords on a database.  Keep an eye on the project [Password_Manager](https://github.com/NickATC/Password_Manager)
+
+Since this is my first project, this will be a WIP.  Still learning a lot of things.  
+
+Comments and critics are welcome: email me (nicolastautiva      at     hotmail dot  com )
 
 ## Getting Started
 
@@ -32,13 +30,14 @@ pip install pyperclip
 You should be ready within seconds!
 
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Nicolás Táutiva** - *Initial work* - [NickATC](https://github.com/NickATC)
+
+## Acknowledgments
+
+* Thanks to PurpleBooth article on how to create a good README [Here](https://gist.githubusercontent.com/PurpleBooth/109311bb0361f32d87a2/raw/824da51d0763e6855c338cc8107b2ff890e7dd43/README-Template.md) 
 
 
 ## License
