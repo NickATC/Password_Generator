@@ -1,21 +1,4 @@
-
-*Current version 1.0:  
--GUI improved.  The more Tkinter I learn, the more I try to improve for better and simpler user experience
--Menu added.
--User guide added.
--Tips to make more secure passwords was added.
--Copy to clipboard button added.
--Password creation algorith improved.
--The 2 main bugs were killed!  :
-    -Error detection is working like a charm.  The program will only accept valid numbers.
-    -If user wants to create another password, the previous one will be deleted first.
-
-    
-##To execute this program:  
-1.  Download the repo.
-2.  Run *password_generator.py*
-3.  On the menu there is a user guide.  Just 4 steps to create more secure passwords
-  
+ 
     
 Since this is my first project, this will be a WIP.  Still learning a lot of things.  
 
@@ -47,8 +30,6 @@ pip install pyperclip
 ```
 
 You should be ready within seconds!
-
-
 
 
 ## Versioning
