@@ -29,6 +29,8 @@ pip install pyperclip
 
 You should be ready within seconds!
 
+## Want to see a screenshot?
+Check the guide.pdf file.  The whole guide to make a secure password in 4 simple steps, and the screenshot is there!
 
 
 ## Authors
