@@ -10,7 +10,7 @@ I'm working on a PASSWORD MANAGER so you can save the passwords on a database.  
 
 Since this is my first project, this will be a WIP.  Still learning a lot of things.  
 
-Comments and critics are welcome: email me (nicolastautiva      at     hotmail dot  com )
+Comments and critics are welcome: email me (nicolastautiva.nt      at     gmail dot  com )
 
 ## Getting Started
 
